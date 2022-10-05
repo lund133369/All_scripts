@@ -1,5 +1,5 @@
-from columnar import columnar
-from click import style
+from columnar import columnar   # pip install columnar
+from click import style         # pip install click
 
 data = [
     ['Strade Bianche', 'Saturday 9th March', 'Tuscany, Italy', "Men's - 176km / Women's - 103km. Both men's and women's "],
