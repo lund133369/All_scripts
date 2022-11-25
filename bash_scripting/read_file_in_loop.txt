@@ -1,0 +1,4 @@
+si tienes un archico en texto plano y quieres leer linea por linea puedes usar el siguiente codigo de bash.
+If you have a plain text file and you want to read line by line you can use the following bash code.
+
+for line in $(cat file); do ;  echo $line ;done 
