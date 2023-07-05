@@ -2,6 +2,7 @@
 
 <------------------>
 
-python_scripts
-python_bash
+-python_scripts
+-python_bash
+
 all scritps python and othres 
