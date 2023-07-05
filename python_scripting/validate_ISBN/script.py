@@ -34,9 +34,9 @@ def extraer(l):
 main()
 
 x2=[m[:-1]for m in x] # delete "\n"
-print(x2) # print all ISBN valide
+print("list all ISBN valid: " , x2) # print all ISBN valide , imprimir todos los ISBN validos
 
-#extra : sum of all elements. 
+#extra : sum of all elements. Convertir todos los ISBN en numeros y sumarlos. 
 for g in x2:
     z=z+int(g)
-print(z)
+print("the sum of all ISBN valid is: " , z)
